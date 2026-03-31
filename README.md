@@ -51,28 +51,28 @@ Directory Audit Script
 ```
 ./directory_audit.sh
 ```
-# Output: Shows size, permissions, and owner for /etc, /var/log, /home, /usr/bin, /tmp
+## Output: Shows size, permissions, and owner for /etc, /var/log, /home, /usr/bin, /tmp
 
 Package Info Script
 ```
 ./package_info.sh python3
 ```
-# Output: Shows if python3 is installed, its version, and a short description
+## Output: Shows if python3 is installed, its version, and a short description
 
 System Report Script
 ```
 ./system_report.sh
 ```
-# Output: Displays distro, kernel, user, uptime, and OS license
+## Output: Displays distro, kernel, user, uptime, and OS license
 
 Log File Analyzer
 ```
 ./log_analyzer.sh /var/log/syslog error
 ```
-# Output: Counts lines with "error" and prints last 5 matching lines
+## Output: Counts lines with "error" and prints last 5 matching lines
 
 Open Source Manifesto Generator
 ```
 ./manifesto_generator.sh
 ```
-# Output: Prompts 3 questions and generates a personalized manifesto text file
+## Output: Prompts 3 questions and generates a personalized manifesto text file
