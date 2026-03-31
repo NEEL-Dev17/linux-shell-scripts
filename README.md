@@ -76,3 +76,16 @@ Open Source Manifesto Generator
 ./manifesto_generator.sh
 ```
 ## Output: Prompts 3 questions and generates a personalized manifesto text file
+
+## Conclusion
+
+These five scripts represent more than just technical exercises—they are practical expressions of the open‑source philosophy explored throughout this capstone. From inspecting system packages to generating a personal manifesto, each script embodies transparency, automation, and the freedom to understand and modify the tools we use.
+
+Building and testing these scripts reinforced key Linux administration skills while grounding them in the ethical and collaborative spirit of the open‑source community. The ability to audit a system, analyse logs, and document the software stack are essential practices for any developer or system administrator working in a FOSS ecosystem.
+
+I hope this repository serves not only as a submission artifact but also as a starting point for deeper exploration into open‑source software. Contributions, suggestions, and improvements are welcome—because, after all, that is how open source thrives.
+
+---
+
+*Thank you for reviewing this project.*  
+*—NEELABJA NAG*
